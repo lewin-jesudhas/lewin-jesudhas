@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lewin-jesudhas&theme=radical&hide_border=true">		  
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewin-jesudhas&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
-$ git shortlog -sn --no-merges
+git shortlog -sn --no-merges
 
