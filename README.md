@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on FinTech Projects
 - 📫 How to reach me lewinjesudhas1@gmail.com
 - 😄 Pronouns: Push/Pull
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Code doesn’t have bugs, just "undocumented features" (jk :sweat_smile::sweat_smile:)
 
 <!---
 lewin-jesudhas/lewin-jesudhas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
